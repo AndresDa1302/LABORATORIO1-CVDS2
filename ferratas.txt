@@ -1,8 +1,12 @@
------------------------ feerratas.txt -------------------
+----------------------- ferratas.txt -------------------
 FE DE ERRATAS
 
 
+<<<<<<< HEAD
 
 * El termino de la pagina por lo general 15 es impreciso.
 
+=======
+* El término de la pagina (por lo general) 15 es impreciso.
+>>>>>>> eac097c... Cambio ortografía 2
 ---------------------------------------------------------
