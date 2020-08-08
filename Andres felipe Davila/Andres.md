@@ -19,4 +19,4 @@ Plan de estudios:
 3. Jugar videojuegos
 4. Ver anime
 
-quiero decirles que `print ("Johann es gurrero")´
+quiero decirles que `print ("Johann es gurrero")`
