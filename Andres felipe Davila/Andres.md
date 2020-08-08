@@ -9,9 +9,7 @@
 
 Plan de estudios:
 
-![Image][1]
-
-[1]: (https://github.com/AndresDa1302/LABORATORIO1-CVDS2/blob/master/Andres%20felipe%20Davila/plan%20de%20estudios.PNG)
+![](https://github.com/AndresDa1302/LABORATORIO1-CVDS2/blob/master/Andres%20felipe%20Davila/plan%20de%20estudios.PNG)
 
 ## Actividades:
 1. Hacer deporte 
