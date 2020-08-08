@@ -6,7 +6,7 @@
 - *#JEG*
 - soy oro IV en flex
 
-Si la felicidad tuviera una forma, tendría forma de cristal, porque puede estar a tu alrededor\ 
+Si la felicidad tuviera una forma, tendría forma de cristal, porque puede estar a tu alrededor 
 sin que la notes. Pero si cambias de perspectiva,\
 puede reflejar una luz capaz de iluminarlo todo
 
