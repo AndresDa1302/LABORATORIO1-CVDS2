@@ -5,7 +5,8 @@
 - me gustan los videojuegos
 - *#JEG*
 - soy oro IV en flex
-
+Si la felicidad tuviera una forma, tendría forma de cristal, porque puede estar a tu alrededor\ 
+sin que la notes. Pero si cambias de perspectiva, puede reflejar una luz capaz de iluminarlo todo
 
 Plan de estudios:
 
@@ -17,3 +18,4 @@ Plan de estudios:
 3. Jugar videojuegos
 4. Ver anime
 
+quiero decirles que print ' Johann es gurrero'
