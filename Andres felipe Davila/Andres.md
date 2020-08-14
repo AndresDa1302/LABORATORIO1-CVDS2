@@ -21,3 +21,11 @@ Plan de estudios:
 4. Ver anime
 
 quiero decirles que `print ("Johann es gurrero")`
+
+pantallazo 1:
+![](https://github.com/AndresDa1302/LABORATORIO1-CVDS2/blob/master/Andres%20felipe%20Davila/git%20learn%20principal.PNG)
+
+
+pantallazo 2:
+
+![](https://github.com/AndresDa1302/LABORATORIO1-CVDS2/blob/master/Andres%20felipe%20Davila/git%20learn%20principal.PNG)
